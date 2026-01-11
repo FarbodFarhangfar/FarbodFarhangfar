@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat-square)](mailto:farbod.farhangfar.dev@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/FarbodFarhangfar?label=Follow&style=social)](https://github.com/FarbodFarhangfar)
 
-Data scientist and data engineer with 8+ years of experience building AI solutions across: [
+Data scientist and data engineer with 9+ years of experience building AI solutions across: [
 machine learning, deep learning (Generative AI, NLP, recommender systems, computer vision), ETL pipelines, data warehouses, and visualization tools. ]
 
 Python developer with a full-stack background (Django, FastAPI, Flutter, React) and experience building REST APIs.
