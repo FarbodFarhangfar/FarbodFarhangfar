@@ -52,7 +52,7 @@ AWS ☁️ | GCP ☁️ | Azure ☁️
 
 ## 🛠️ Projects I’m Proud Of
 
-- **⚖️ Designed and implemented a dynamic MCP-based multi-agent architecture that provisions specialized agents and orchestrators based on user intent, enabling modular execution of domain-specific workflows across legal, medical and research use cases.
+- ⚖️ Designed and implemented a dynamic MCP-based multi-agent architecture that provisions specialized agents and orchestrators based on user intent, enabling modular execution of domain-specific workflows across legal, medical and research use cases.
 - **🧠 AI Engine & LLM Router:** Built a smart engine to dynamically serve open-source and proprietary LLMs with health checks, streaming, and load balancing  
 - **🔧 Industrial Predictive Maintenance:** Reduced failure costs by 5% and signed 3 contracts in steel/oil sector using real-time ML and edge deployment  
 - **📦 ETL & Data Infra:** Designed real-time pipelines (Kafka, Spark, Airflow) processing 100K+ events/day for B2B platforms  
