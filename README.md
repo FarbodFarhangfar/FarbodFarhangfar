@@ -15,7 +15,7 @@ Experienced in MLOps, CI/CD, and automation with GitHub Actions. Strong collabor
 
 fluent in English, familiar with German and Turkish languages. 
 
-3+ years in managing teams and owning full-lifecycle AI and data product development.
+4+ years in managing teams and owning full-lifecycle AI and data product development.
 
 Lets build future's technology now.
 
@@ -54,6 +54,7 @@ AWS ☁️ | GCP ☁️ | Azure ☁️
 
 ## 🛠️ Projects I’m Proud Of
 
+- **⚖️ Designed and implemented a dynamic MCP-based multi-agent architecture that provisions specialized agents and orchestrators based on user intent, enabling modular execution of domain-specific workflows across legal, medical and research use cases.
 - **🧠 AI Engine & LLM Router:** Built a smart engine to dynamically serve open-source and proprietary LLMs with health checks, streaming, and load balancing  
 - **🔧 Industrial Predictive Maintenance:** Reduced failure costs by 5% and signed 3 contracts in steel/oil sector using real-time ML and edge deployment  
 - **📦 ETL & Data Infra:** Designed real-time pipelines (Kafka, Spark, Airflow) processing 100K+ events/day for B2B platforms  
@@ -66,7 +67,8 @@ AWS ☁️ | GCP ☁️ | Azure ☁️
 
 | Role                      | Company                  | Years        |
 |---------------------------|---------------------------|--------------|
-| **Senior AI Product Owner** | Jarvic.ai (Ireland)       | 2024–2025     |
+| **Senior AI Engineer** | NewMind AI (Istanbul)       | 2025–2026     |
+| **Senior AI Engineer** | Jarvic.ai (Ireland)       | 2024–2025     |
 | **AI Team Lead**           | Nafun Intl (Oman)         | 2022–2024     |
 | **Senior Data Engineer**   | Magifits (Canada)         | 2021–2022     |
 | **AI / Backend Developer** | Nafun Intl (Oman)         | 2020–2021     |
