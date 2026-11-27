@@ -13,7 +13,7 @@ Hands-on with AWS, GCP, Azure, and containerization using Docker and Kubernetes.
 
 Experienced in MLOps, CI/CD, and automation with GitHub Actions. Strong collaborator in Agile Scrum teams. 
 
-fluent in English, familiar with German and Turkish languages. 
+fluent in English. 
 
 4+ years in managing teams and owning full-lifecycle AI and data product development.
 
